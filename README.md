@@ -8,6 +8,10 @@ Competitive,hardworking,team worker
 Ionian University:Informatics
 ## WORK EXPIRIENCE 
 None yet
+##AGE 
+19
+##HOBBIES
+WORKOUT,MUSIC,READING
 
 
 
